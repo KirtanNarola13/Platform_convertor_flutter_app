@@ -1,0 +1,1 @@
+ C:\\Users\\kirta\\StudioProjects\\PLatform_Convertor_Provider_Flutter_App_Kirtan\\.dart_tool\\flutter_build\\779d807316a966f6b18dc91d666c84b6\\native_assets.yaml: 
