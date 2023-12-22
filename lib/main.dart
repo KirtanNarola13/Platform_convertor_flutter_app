@@ -90,7 +90,7 @@ void main() async {
                 debugShowCheckedModeBanner: false,
                 routes: {
                   '/': (context) => const SplashScreen(),
-                  'homepage  ': (context) => const HomePage(),
+                  'homepage': (context) => const HomePage(),
                 },
               )
             : CupertinoApp(
